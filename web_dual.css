@@ -1,0 +1,25 @@
+body{
+	background-color: #00FFFF;
+	font-family: Verdana;
+}
+
+p{
+	font-family:Italic;
+}
+
+img{
+	float: right;
+}
+
+
+#head{
+	color: blue;
+}
+
+#academicos{
+	color: #C00;
+}
+
+#laboral{
+	color: #B833FF;
+}
